@@ -1,4 +1,4 @@
-package org.panda.generate.data;
+package org.panda.data;
 
 import java.io.File;
 import java.io.IOException;
